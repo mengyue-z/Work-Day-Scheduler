@@ -12,9 +12,9 @@ SO THAT I can manage my time effectively
 
 This is a simple calendar application that allows a user to save events for each working hour of the day.
 
-User can type in the tasks for each hour and then click the save button on the right so the tasks will be saved and are accessbile anytime.
+User can type in the tasks/events for each hour and then click the save button on the right so the tasks will be saved and are accessbile anytime.
 
-
+The past timeblocks will be grey color, present timeblock will be red and future timeblocks will be green.
 
 # Screenshots
 
